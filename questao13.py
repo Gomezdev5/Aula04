@@ -2,5 +2,5 @@
 
 num = float(input("digite o numero?"))
 
-formatted_num = "{:.2f}".format(num)
-print(formatted_num)
+formato = "{:.2f}".format(num)
+print(formato)
