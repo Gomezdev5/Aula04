@@ -2,8 +2,7 @@
 
 nome = "python é incrível"
 
-separa = nome.split("\n")
+separa = nome.title()
 
-sep = separa
 
-print(sep)
+print(separa)
